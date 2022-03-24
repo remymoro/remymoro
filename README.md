@@ -24,12 +24,12 @@ I have listed below all the projects carried out as part of my training.
 </ul>
 <h4> Toujours coder comme si le gars qui finirait par maintenir votre code serait un psychopathe violent qui sait où vous habitez.<h4>
 
-<p align="auto">
+<div align="center">
   
-![giphy (4)](https://user-images.githubusercontent.com/90479847/159971211-7c95b480-0333-4ac8-b809-f415a79c6450.gif)
+<img src="https://user-images.githubusercontent.com/90479847/159971211-7c95b480-0333-4ac8-b809-f415a79c6450.gif">
 
 
-</p>
+</div
 
 
 
