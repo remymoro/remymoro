@@ -17,7 +17,7 @@ I have listed below all the projects carried out as part of my training.
 
 
 <ul dir="auto" style="list-style-type:none">
-<li style="list-style-type:none">🔭Je travaille actuellement sur mes projets de portefeuille</li>
+<li style="list-style-type:none">🔭Je travaille actuellement sur mes projets de portfolio</li>
 <li style="list-style-type:none">🌱J'apprends actuellement Symfony & Vue</li>
 <li style="list-style-type:none">🤝Je cherche une entreprise pour mon stage</li>
 <li style="list-style-type:none">💻Pendant mon temps libre, j'adore faire de la veille la technologique</li>
