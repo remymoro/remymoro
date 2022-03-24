@@ -1,16 +1,26 @@
-### Hi there 👋
+### Hi there I'm REMY 👋
 
-<!--
-**remymoro/remymoro** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+En formation développeur dans le cadre d'une reconversion professionnelle.🤓
+<hr>
+<br>
+<div snippet-clipboard-content position-relative overflow-auto>
+<pre>
+<code>
+I'm based on the south of Agen, France.
+I discovered the developper job in 2021 and I found the perfect job for me. 
+I have listed below all the projects carried out as part of my training.
+</code>
+</pre>
+</div>
+<hr>
 
-Here are some ideas to get you started:
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+<ul dir="auto" style="list-style-type:none">
+<li style="list-style-type:none">🔭Je travaille actuellement sur mes projets de portefeuille</li>
+<li style="list-style-type:none">🌱J'apprends actuellement Symfony & Vue</li>
+<li style="list-style-type:none">🤝Je cherche une entreprise pour mon stage</li>
+<li style="list-style-type:none">💻Pendant mon temps libre, j'adore faire de la veille la technologique</li>
+</ul>
+
+
+
