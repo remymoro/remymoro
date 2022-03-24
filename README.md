@@ -1,13 +1,11 @@
-
 ### Hi there I'm REMY 👋
-
 En formation développeur dans le cadre d'une reconversion professionnelle.🤓
-<hr>
-<br>
 
-<div style="display:flex; justify-content:center">
-<img src="https://user-images.githubusercontent.com/90479847/159952471-37e7d936-920f-45d4-83a7-c2f433126ab7.gif" style="width:150px;">
-</div>
+
+<p align='center'>
+<img src="https://user-images.githubusercontent.com/90479847/159952471-37e7d936-920f-45d4-83a7-c2f433126ab7.gif" style="width:200px;">
+</p>
+<hr>
 <div snippet-clipboard-content position-relative overflow-auto>
 <pre>
 <code>
@@ -17,7 +15,7 @@ I have listed below all the projects carried out as part of my training.
 </code>
 </pre>
 </div>
-<hr>
+
 
 
 <ul dir="auto" style="list-style-type:none">
@@ -26,4 +24,5 @@ I have listed below all the projects carried out as part of my training.
 <li style="list-style-type:none">🤝Je cherche une entreprise pour mon stage</li>
 <li style="list-style-type:none">💻Pendant mon temps libre, j'adore faire de la veille la technologique</li>
 </ul>
+
 
